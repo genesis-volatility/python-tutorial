@@ -16,6 +16,8 @@ These notebooks are intended to help you learn Python, get up to speed on basic 
 
 ## Lesson 2: Using Pandas - Resources
 
+[Lesson 2 Python Code](https://github.com/genesis-volatility/python-tutorial/blob/master/GVol%20%3C%3E%20Python%20Part%202%20-%20Pandas.ipynb)
+
 [Lesson 2 Youtube Tutorial](https://youtu.be/GkYFpGNxl_Y)
 
 [Pandas Documentation](https://docs.python-guide.org/starting/install3/osx/)
@@ -23,6 +25,8 @@ These notebooks are intended to help you learn Python, get up to speed on basic 
 [Numpy Documentation](https://numpy.org/doc/)
 
 ## Lesson 3: Installation, Variables and Functions - Resources
+
+[Lesson 3 Python Code](https://github.com/genesis-volatility/python-tutorial/blob/master/GVol%20%3C%3E%20Python%20Part%203%20-%20Plotly.ipynb)
 
 [Lesson 3 Youtube Tutorial](https://youtu.be/LqkLYd1xszM)
 
@@ -32,8 +36,12 @@ These notebooks are intended to help you learn Python, get up to speed on basic 
 
 ## Lesson 4:
 
-[Lesson 3 Youtube Tutorial](https://youtu.be/2QTTF0gSRyg)
+[Lesson 4 Python Code](https://github.com/genesis-volatility/python-tutorial/blob/master/GVol%20%3C%3E%20Python%20Part%204%20-%20GVol%20Module.ipynb)
+
+[Lesson 4 Youtube Tutorial](https://youtu.be/2QTTF0gSRyg)
+
 [GVol API-Lite Documentation](https://docs-lite.gvol.io/)
+
 [GVol Pro Documentation](https://docs.gvol.io/)
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [gvol](https://pypi.org/project/gvol/).
