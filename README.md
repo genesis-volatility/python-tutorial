@@ -1,6 +1,6 @@
 # GVol Python Tutorial
 
-These notebooks are intended to help you learn Python, get up to speed on basic programming concept and finally building your own options analytics code using the GVol Python module.
+These notebooks are intended to help you learn Python, get up to speed on basic programming concept and finally write your own options analytics code using the GVol Python module.
 
 ## Lesson 1: Installation, Variables and Functions - Resources
 
